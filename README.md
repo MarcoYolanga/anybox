@@ -1,2 +1,4 @@
 # anybox
-JS sript to lighbox any image / video and move with arrow keys
+
+Paste the script in your browser's Javascript console. Then use arrow keys to switch media
+
